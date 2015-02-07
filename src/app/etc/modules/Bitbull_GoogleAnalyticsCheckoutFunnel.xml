@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bitbull_GoogleAnalyticsCheckoutFunnel>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Bitbull_GoogleAnalyticsCheckoutFunnel>
+    </modules>
+</config>
