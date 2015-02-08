@@ -2,9 +2,16 @@
 <config>
     <modules>
         <Bitbull_GoogleAnalyticsCheckoutFunnel>
-            <version>1.0.0</version>
+            <version>0.1.0</version>
         </Bitbull_GoogleAnalyticsCheckoutFunnel>
     </modules>
-    <global>
-    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <bitbull_googleanalyticscheckoutfunnel>
+                    <file>bitbull/google_analytics_checkout_funnel.xml</file>
+                </bitbull_googleanalyticscheckoutfunnel>
+            </updates>
+        </layout>
+    </frontend>
 </config>

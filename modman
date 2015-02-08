@@ -1,2 +1,4 @@
 src/app/code/community/Bitbull/GoogleAnalyticsCheckoutFunnel     app/code/community/Bitbull/GoogleAnalyticsCheckoutFunnel
-src/app/etc/modules/*    app/etc/modules/
+src/app/etc/modules/Bitbull_GoogleAnalyticsCheckoutFunnel.xml    app/etc/modules/Bitbull_GoogleAnalyticsCheckoutFunnel.xml
+src/app/design/frontend/base/default/layout/bitbull/google_analytics_checkout_funnel.xml    app/design/frontend/base/default/layout/bitbull/google_analytics_checkout_funnel.xml
+src/skin/frontend/base/default/js/bitbull/ga_checkout_funnel.js     skin/frontend/base/default/js/bitbull/ga_checkout_funnel.js
