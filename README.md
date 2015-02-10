@@ -31,7 +31,7 @@ The tracking method test for the presence of `ga` function (Universal Analytics 
 
 Setup your goal as usual, the relevant part of funnel configuration (the one that relies on pageviews sent by this module) is shown below:
 
-![Funnel configuration](https://dl.dropboxusercontent.com/u/975953/google_analytics_checkout_funnel_configuration.png)
+![Funnel configuration](https://dl.dropboxusercontent.com/u/975953/google_analytics_checkout_funnel_configuration_full.png)
 
 ## Support
 
